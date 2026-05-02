@@ -6,7 +6,7 @@ Este repositorio es para estudiantes que quieren ir más allá del programa.
 
 ## 🗺️ Índice
 
-- [🎙️ Podcasts y Newsletters](#️-podcasts)
+- [🎙️ Podcasts y Newsletters](#️-podcasts-y-newsletters)
 - [📖 Libros](#-libros)
 - [📄 Papers](#-papers)
 - [💼 Empleo y becas](#-empleo-y-becas)
