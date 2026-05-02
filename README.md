@@ -9,6 +9,7 @@ Este repositorio es para estudiantes que quieren ir más allá del programa.
 - [🎙️ Podcasts y Newsletters](#️-podcasts-y-newsletters)
 - [📖 Libros](#-libros)
 - [📄 Papers](#-papers)
+- [📺 Canales de YouTube](#-canales-de-youtube)
 - [💼 Empleo y becas](#-empleo-y-becas)
 - [🛠️ Herramientas](#️-herramientas)
 
