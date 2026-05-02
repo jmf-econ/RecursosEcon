@@ -36,8 +36,6 @@ _Próximamente._
 
 ## 📄 Papers
 
-## 📄 Papers
-
 Una mezcla de clásicos que todo economista debería conocer y papers recientes que están moviendo la frontera.
 
 ---
@@ -69,7 +67,7 @@ Una mezcla de clásicos que todo economista debería conocer y papers recientes 
 
 ---
 
-> 💡 **¿No tenés acceso?** Buscá el título en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
+> 💡 **No tenés acceso?** Buscá el DOI en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
 
 ---
 
