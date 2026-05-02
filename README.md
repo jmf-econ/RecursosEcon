@@ -26,6 +26,7 @@ Este repositorio es para estudiantes que quieren ir más allá del programa.
 | [Lex Fridman Podcast](https://open.spotify.com/episode/18LR7HGMPshqYbCjhqp7rQ?si=to-NWiA_QGidt9egt_IkIw) | Entrevistas largas con científicos, economistas, filósofos, CEOs, presidentes, etc. | 🇺🇸 |
 | [Episodio: John List - Tim Ferriss Show](https://open.spotify.com/episode/3YwPk6a6R2YHKbkLlLKTK3?si=suRjSEXuTASUzmR8udpP3g) | El trabajo de John es los mejores ejemplos de micro aplicada | 🇺🇸 |
 | [Newsletter: Esto no es Economía](https://www.noeseconomia.com/) | Resumenes de papers o temas relativamente nuevos y bastante originales | Porteño |
+
 ---
 
 ## 📖 Libros
@@ -65,10 +66,18 @@ Una mezcla de clásicos que todo economista debería conocer y papers recientes 
 | [Minimum Wages and Employment](https://www.jstor.org/stable/2117925) | Card & Krueger | 1994 | Laboral | Cambió cómo se hace econometría laboral. Card ganó el Nobel por esta línea |
 | [Investment in Human Capital](https://www.jstor.org/stable/1829103) | Mincer | 1958 | Laboral | La base teórica de la ecuación de Mincer que van a ver en cualquier paper de salarios |
 
----
 
 > 💡 **No tenés acceso?** Buscá el DOI en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
 
+---
+
+## 📺 Canales de YouTube
+
+| Canal | Descripción | Nivel | Idioma |
+|-------|-------------|-------|--------|
+| [Sebastián Galiani](https://www.youtube.com/@SFGaliani) | Profesor de UTDT entrevista a otros economistas sobre sus trabajos | 🎓 Académico | 🇦🇷 |
+| [3Blue1Brown](https://www.youtube.com/@3blue1brown) | El mejor canal de matemáticas de la web. Imprescindible. | 🎓 Académico | 🇺🇸 |
+| [Market Power](https://www.youtube.com/@MarketPowerYT) | Súper orientado a estudiantes de economía: carrera, libros, etc. | 🌍 Divulgación | 🇺🇸 |
 ---
 
 ## 💼 Empleo y becas
