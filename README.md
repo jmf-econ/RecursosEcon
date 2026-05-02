@@ -24,7 +24,7 @@ Este repositorio es para estudiantes que quieren ir más allá del programa.
 | [Economics Detective Radio](https://open.spotify.com/episode/2OUON2GQxXSoN1DZkgG4pp?si=i9JoSQZ_Q7GIrEvh0o_esQ) | Discuten temas particulares, está bueno para eco institucional e historia económica | 🇺🇸 |
 | [No Stupid Questions](https://open.spotify.com/show/7v3U6D0q6xDp6vBaoceNEC) | Otro show excelente de Steven Levitt | 🇺🇸 |
 | [Lex Fridman Podcast](https://open.spotify.com/episode/18LR7HGMPshqYbCjhqp7rQ?si=to-NWiA_QGidt9egt_IkIw) | Entrevistas largas con científicos, economistas, filósofos, CEOs, presidentes, etc. | 🇺🇸 |
-| [John List (Tim Ferriss Show)](https://open.spotify.com/episode/3YwPk6a6R2YHKbkLlLKTK3?si=suRjSEXuTASUzmR8udpP3g) | El trabajo de John es los mejores ejemplos de micro aplicada | 🇺🇸 |
+| [Episodio: John List - Tim Ferriss Show](https://open.spotify.com/episode/3YwPk6a6R2YHKbkLlLKTK3?si=suRjSEXuTASUzmR8udpP3g) | El trabajo de John es los mejores ejemplos de micro aplicada | 🇺🇸 |
 | [Newsletter: Esto no es Economía](https://www.noeseconomia.com/) | Resumenes de papers o temas relativamente nuevos y bastante originales | Porteño |
 ---
 
