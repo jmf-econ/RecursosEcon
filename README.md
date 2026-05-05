@@ -93,7 +93,7 @@ _Próximamente._
 
 | Recurso | Descripción |
 |---------|-------------|
-| [Mi setup de Claude Code](https://share.google/4DfUI8WlFT8S8flmP) | Cómo uso Claude Code para investigación y análisis de datos |
+| [Mi setup de Claude Code](https://share.google/4DfUI8WlFT8S8flmP) | Claude para investigación y análisis de datos |
 ---
 
 
