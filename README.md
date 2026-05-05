@@ -89,7 +89,6 @@ _Próximamente._
 
 ## 🛠️ Herramientas
 
-## 🛠️ Herramientas
 
 | Recurso | Descripción |
 |---------|-------------|
