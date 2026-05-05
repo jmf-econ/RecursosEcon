@@ -89,9 +89,11 @@ _Próximamente._
 
 ## 🛠️ Herramientas
 
-_Próximamente._
+## 🛠️ Herramientas
 
-My Claude Code Setup https://share.google/4DfUI8WlFT8S8flmP
+| Recurso | Descripción |
+|---------|-------------|
+| [Mi setup de Claude Code](https://share.google/4DfUI8WlFT8S8flmP) | Cómo uso Claude Code para investigación y análisis de datos |
 ---
 
 
