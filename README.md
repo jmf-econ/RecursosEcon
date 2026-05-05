@@ -1,6 +1,4 @@
-# 📚 Recursos Econ
-
-Este repositorio es para estudiantes que quieren ir más allá del programa.
+# 📚 Recursos para Economistas
 
 ---
 
