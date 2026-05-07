@@ -58,6 +58,8 @@ _Próximamente._
 | [Sebastián Galiani](https://www.youtube.com/@SFGaliani) | Profesor de UTDT entrevista a otros economistas sobre sus trabajos | 🎓 Académico | ES |
 | [3Blue1Brown](https://www.youtube.com/@3blue1brown) | El mejor canal de matemáticas de la web. Imprescindible. | 🎓 Académico | EN |
 | [Market Power](https://www.youtube.com/@MarketPowerYT) | Súper orientado a estudiantes de economía: carrera, libros, etc. | 🌍 Divulgación | EN |
+| [ANCE Económicas]([https://www.youtube.com/@MarketPowerYT](https://www.youtube.com/@anceeconomicas450)) | Juan Carlos de Pablo entrevista a otros economistas | 🌍 Divulgación | ES |
+
 ---
 
 ## 💼 Empleo y becas
