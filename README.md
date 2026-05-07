@@ -42,7 +42,7 @@ _Próximamente._
 | [The Economist as Plumber](https://www.nber.org/papers/w23213) | Esther Duflo | 2017 | Desarrollo / Micro | No todo es tan obvio en política, hay que experimentar más |
 | [The Effects of Exposure to Better Neighborhoods on Children](https://www.nber.org/papers/w21156) | Chetty & Hendren | 2018 | Laboral / Movilidad | Movilidad intergeneracional. Uno de los papers más influyentes de la última década |
 | [Career and Family](https://www.nber.org/papers/w26952) | Goldin | 2021 | Laboral / Género | La base del trabajo por el que ganó el Nobel en 2023. Brecha salarial de género |
-| [Automation and New Tasks]([https://www.nber.org/papers/w25681](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3)) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
+| [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
 
 
 > 😏 **No tenés acceso?** Buscá el DOI en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
