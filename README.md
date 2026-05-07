@@ -1,5 +1,7 @@
 # 📚 Recursos para Economistas
 
+Autores: Tomás Villar Toledo y Juan Martín Favetto
+
 ---
 
 ## 🗺️ Índice
