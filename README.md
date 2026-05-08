@@ -1,6 +1,6 @@
 # 📚 Recursos para Economistas
 
-Autores: Tomás Villar Toledo y Juan Martín Favetto
+Del equipo de JILAEE
 
 ---
 
