@@ -46,7 +46,7 @@ _Próximamente._
 | [The Effects of Exposure to Better Neighborhoods on Children](https://www.nber.org/papers/w21156) | Chetty & Hendren | 2018 | Laboral / Movilidad | Movilidad intergeneracional. Uno de los papers más influyentes de la última década |
 | [Career and Family](https://www.nber.org/papers/w26952) | Goldin | 2021 | Laboral / Género | La base del trabajo por el que ganó el Nobel en 2023. Brecha salarial de género |
 | [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
-| [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Un resumen de todo lo ques sabemos (y no sabemos) sobre los vouchers educativos. |
+| [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
 
 > 😏 **No tenés acceso?** Buscá el DOI en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
 
