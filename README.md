@@ -39,7 +39,7 @@ _Próximamente._
 
 ## 📄 Papers
 
-| Título | Autores | Año | Área | Por qué leerlo |
+| Título | Autores | Año | Área | Descripción |
 |--------|---------|-----|------|----------------|
 | [Enhancing Critical Thinking Skill Formation: Getting Fast Thinkers to Slow Down](https://ideas.repec.org/a/taf/jeduce/v53y2022i1p100-108.html) | John A. List | 2021 | Critical Thinking / Behavioral | Propone una jerarquía del pensamiento crítico. Cortito y muy aplicable. |
 | [The Economist as Plumber](https://www.nber.org/papers/w23213) | Esther Duflo | 2017 | Desarrollo / Micro | No todo es tan obvio en política, hay que experimentar más |
