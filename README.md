@@ -19,6 +19,7 @@ Autores: Tomás Villar Toledo y Juan Martín Favetto
 
 | Nombre | Descripción | Idioma |
 |--------|-------------|--------|
+| [The Pie](https://open.spotify.com/show/2UEsLEtKK1JHOWO4Mf9uPa) | El podcaste del BFI de UChicago, bien en la frontera. | EN |
 | [Shot Financiero](https://open.spotify.com/episode/6zNQqCV3Ej7RfUsYvX59Ml?si=Zmqtaiz9TmqhVhuFkBwomQ) | Economistas cuentan su carrera (la mayoría son argentinos, muchos de UCEMA) | ES |
 | [EconTalk](https://open.spotify.com/episode/5p13At5gS9rquLpNHsPpKe?si=YyTfGB4dRIOQ7c2fOMxQDQ) | Parecido a Shot Financiero, pero más concentrado en el trabajo de los economistas | EN |
 | [People I (mostly) Admire](https://open.spotify.com/show/4tINcXckbPUk6dsK3eQD21?si=0754af8e2deb4746) | El economista Steve Levitt entrevista a gente con vidas increíbles, muchos de ellos economistas | EN |
