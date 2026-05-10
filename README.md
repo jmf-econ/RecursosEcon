@@ -28,6 +28,7 @@ Del equipo de JILAEE
 | [Lex Fridman Podcast](https://open.spotify.com/episode/18LR7HGMPshqYbCjhqp7rQ?si=to-NWiA_QGidt9egt_IkIw) | Entrevistas largas con científicos, economistas, filósofos, CEOs, presidentes, etc. | EN |
 | [Episodio: John List - Tim Ferriss Show](https://open.spotify.com/episode/3YwPk6a6R2YHKbkLlLKTK3?si=suRjSEXuTASUzmR8udpP3g) | El trabajo de John es los mejores ejemplos de micro aplicada | EN |
 | [Newsletter: Esto no es Economía](https://www.noeseconomia.com/) | Resumenes de papers o temas relativamente nuevos y bastante originales | Porteño |
+| [Nobel Prize Conversations]([https://www.noeseconomia.com/](https://open.spotify.com/show/6LhICwWuTnxqzy0V0V6GHW?si=a17238b9801147ec)) | Entrevistas con los ganadores del Premio Nobel | EN |
 
 ---
 
