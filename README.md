@@ -49,6 +49,17 @@ _Próximamente._
 | [Career and Family](https://www.nber.org/papers/w26952) | Goldin | 2021 | Laboral / Género | La base del trabajo por el que ganó el Nobel en 2023. Brecha salarial de género |
 | [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
 | [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
+| [Shallow Meritocracy](https://www.nber.org/papers/w33730) | Peter Andre | 2025 | Behavioral | Cómo las creencias sobre el mérito son superficiales y maleables. |
+
+### 🏛️ Algunos clásicos
+
+| Título | Autores | Año | Área | Descripción |
+|--------|---------|-----|------|-------------|
+| [The Market for Lemons](https://www.jstor.org/stable/1879431) | Akerlof | 1970 | Micro Teórica / Juegos | Modelo de información asimétrica, selección adversa con conclusiones poco obvias. |
+| [The Methodology of Positive Economics](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25773835.html) | Friedman | 1953 | Metodología | ¿Cómo juzgamos si una teoría es buena o mala? El trabjo más importante de Friedman. |
+| [Moral Hazard and Observability](https://www.jstor.org/stable/3003320) | Holmström | 1979 | Micro Teórica / Contratos | El paper fundacional del modelo principal-agente con información oculta. |
+| [Cooperation and Punishment in Public Goods Experiments](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.980) | Fehr & Gächter | 2000 | Behavioral | La gente castiga a los free-riders incluso a costa propia. |
+
 
 > **No tenés acceso?** Pedinos a nosotros o a la biblioteca.
 
