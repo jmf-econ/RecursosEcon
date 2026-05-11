@@ -50,6 +50,7 @@ _Próximamente._
 | [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
 | [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
 | [Shallow Meritocracy](https://www.nber.org/papers/w33730) | Peter Andre | 2025 | Behavioral | Cómo las creencias sobre el mérito son superficiales y maleables. |
+| [Cooperation and Punishment in Public Goods Experiments](https://web.mit.edu/14.160/www/Coop_PunAER.pdf) | Fehr & Gächter | 2000 | Behavioral | La gente castiga a los free-riders incluso a costa propia. |
 
 ### 🏛️ Algunos clásicos
 
@@ -58,7 +59,8 @@ _Próximamente._
 | [The Market for Lemons](https://www.jstor.org/stable/1879431) | Akerlof | 1970 | Micro Teórica / Juegos | Modelo de información asimétrica, selección adversa con conclusiones poco obvias. |
 | [The Methodology of Positive Economics](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25773835.html) | Friedman | 1953 | Metodología | ¿Cómo juzgamos si una teoría es buena o mala? El trabjo más importante de Friedman. |
 | [Moral Hazard and Observability](https://www.jstor.org/stable/3003320) | Holmström | 1979 | Micro Teórica / Contratos | El paper fundacional del modelo principal-agente con información oculta. |
-| [Cooperation and Punishment in Public Goods Experiments](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.980) | Fehr & Gächter | 2000 | Behavioral | La gente castiga a los free-riders incluso a costa propia. |
+| [The Nature of the Firm](https://www.jstor.org/stable/2626876) | Coase | 1937 | Micro Teórica / OI | ¿Por qué existen las empresas grandes si la división del trabajo es tan eficiente? |
+| [The Problem of Social Cost](https://www.jstor.org/stable/724810) | Coase | 1960 | Micro Teórica / Externalidades | A veces, la asignación de derechos de propiedad no importa para la eficiencia, pero a veces sí. |
 
 
 > **No tenés acceso?** Pedinos a nosotros o a la biblioteca.
