@@ -1,6 +1,6 @@
 # 📚 Recursos para Economistas
 
-Del equipo de JILAEE
+Del equipo de [JILAEE](https://www.jilaee.org/)
 
 ---
 
@@ -50,7 +50,7 @@ _Próximamente._
 | [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
 | [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
 
-> 😏 **No tenés acceso?** Buscá el DOI en [Sci-Hub](https://sci-hub.se) o pedile el PDF a la biblioteca.
+> **No tenés acceso?** Pedinos a nosotros o a la biblioteca.
 
 ---
 
