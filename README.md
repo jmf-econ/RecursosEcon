@@ -94,6 +94,4 @@ _Próximamente._
 ---
 
 
----
 
-<sub>Mantenido por la cátedra. Última actualización: 2026.</sub>
