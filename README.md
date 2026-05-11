@@ -49,8 +49,8 @@ _Próximamente._
 | [Career and Family](https://www.nber.org/papers/w26952) | Goldin | 2021 | Laboral / Género | La base del trabajo por el que ganó el Nobel en 2023. Brecha salarial de género |
 | [Automation and New Tasks](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) | Acemoglu & Restrepo | 2019 | Laboral / Tecnología | El debate sobre robots y empleo, bien hecho |
 | [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
-| [Shallow Meritocracy](https://www.nber.org/papers/w33730) | Peter Andre | 2025 | Behavioral | Cómo las creencias sobre el mérito son superficiales y maleables. |
-| [Cooperation and Punishment in Public Goods Experiments](https://web.mit.edu/14.160/www/Coop_PunAER.pdf) | Fehr & Gächter | 2000 | Behavioral | La gente castiga a los free-riders incluso a costa propia. |
+| [Shallow Meritocracy](https://www.nber.org/papers/w33730) | Peter Andre | 2025 | Behavioral | Cómo las creencias sobre el mérito son superficiales y maleables. Representa cómo se trabaja hoy en behavioral. |
+| [Cooperation and Punishment in Public Goods Experiments](https://web.mit.edu/14.160/www/Coop_PunAER.pdf) | Fehr & Gächter | 2000 | Behavioral | Resultados robustos que contradicen nuestros modelos tradicionales. |
 
 ### 🏛️ Algunos clásicos
 
