@@ -1,6 +1,6 @@
 # 📚 Recursos para Economistas
 
-Del equipo de [JILAEE](https://www.jilaee.org/)
+Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 
 ---
 
