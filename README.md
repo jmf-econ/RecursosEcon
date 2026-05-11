@@ -22,13 +22,14 @@ Del equipo de JILAEE
 | [The Pie](https://open.spotify.com/show/2UEsLEtKK1JHOWO4Mf9uPa) | El podcaste del BFI de UChicago, bien en la frontera. | EN |
 | [Shot Financiero](https://open.spotify.com/episode/6zNQqCV3Ej7RfUsYvX59Ml?si=Zmqtaiz9TmqhVhuFkBwomQ) | Economistas cuentan su carrera (la mayoría son argentinos, muchos de UCEMA) | ES |
 | [EconTalk](https://open.spotify.com/episode/5p13At5gS9rquLpNHsPpKe?si=YyTfGB4dRIOQ7c2fOMxQDQ) | Parecido a Shot Financiero, pero más concentrado en el trabajo de los economistas | EN |
-| [People I (mostly) Admire](https://open.spotify.com/show/4tINcXckbPUk6dsK3eQD21?si=0754af8e2deb4746) | El economista Steve Levitt entrevista a gente con vidas increíbles, muchos de ellos economistas | EN |
+| [People I (mostly) Admire](https://open.spotify.com/episode/2OUON2GQxXSoN1DZkgG4pp?si=Va6pRlhvTXWy7O3_fTWy6g) | El economista Steve Levitt entrevista a gente con vidas increíbles, muchos de ellos economistas | EN |
 | [Economics Detective Radio](https://open.spotify.com/episode/2OUON2GQxXSoN1DZkgG4pp?si=i9JoSQZ_Q7GIrEvh0o_esQ) | Discuten temas particulares, está bueno para eco institucional e historia económica | EN |
-| [No Stupid Questions](https://open.spotify.com/show/7v3U6D0q6xDp6vBaoceNEC) | Otro show excelente de Steven Levitt | EN |
+| [No Stupid Questions](https://open.spotify.com/show/6Z49m4VQ4TfQ28Cnl42yiT?si=2c26e14b66f441e0) | Otro show excelente de Steven Levitt | EN |
 | [Lex Fridman Podcast](https://open.spotify.com/episode/18LR7HGMPshqYbCjhqp7rQ?si=to-NWiA_QGidt9egt_IkIw) | Entrevistas largas con científicos, economistas, filósofos, CEOs, presidentes, etc. | EN |
 | [Episodio: John List - Tim Ferriss Show](https://open.spotify.com/episode/3YwPk6a6R2YHKbkLlLKTK3?si=suRjSEXuTASUzmR8udpP3g) | El trabajo de John es los mejores ejemplos de micro aplicada | EN |
 | [Newsletter: Esto no es Economía](https://www.noeseconomia.com/) | Resumenes de papers o temas relativamente nuevos y bastante originales | Porteño |
 | [Nobel Prize Conversations](https://open.spotify.com/show/6LhICwWuTnxqzy0V0V6GHW?si=c8c363d4383d4db4) | Entrevistas con los ganadores del Premio Nobel | EN |
+| [FMI Podcast](https://open.spotify.com/show/7v3U6D0q6xDp6vBaoceNEC) | Coyuntura de macro y finanzas. | Porteño |
 
 ---
 
