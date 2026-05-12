@@ -35,7 +35,9 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 
 ## 📖 Libros
 
-_Próximamente._
+| Título | Autores | Área | Descripción |
+|--------|---------|------|----------------|
+| Esto También es Economía | Nicolás Ajzenman | Micro Aplicada | Explica de manera sencilla un paper por capítulo. Toca temas como la política, la desigualdad y las familias. Es una buena introducción intuitiva a la inferencia causal |
 
 ---
 
