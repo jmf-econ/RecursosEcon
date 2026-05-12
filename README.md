@@ -96,6 +96,9 @@ _Próximamente._
 | Recurso | Descripción |
 |---------|-------------|
 | [Mi setup de Claude Code](https://share.google/4DfUI8WlFT8S8flmP) | Claude para investigación y análisis de datos |
+| [Connected Papers](https://www.connectedpapers.com/) | Visualiza la red de citas de un paper. Útil para mapear una literatura rápido. |
+| [Prism](https://prism.openai.com/?pg=0=) | El editor de LaTeX online colaborativo de Open AI. |
+
 ---
 
 
