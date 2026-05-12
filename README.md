@@ -38,7 +38,7 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | Título | Autores | Área | Descripción |
 |--------|---------|------|----------------|
 | Esto También es Economía | Nicolás Ajzenman | Micro Aplicada | Explica de manera sencilla un paper por capítulo. Toca temas como la política, la desigualdad y las familias. Es una buena introducción intuitiva a la inferencia causal. |
-| Thinking Fast and Slow | Kahneman | Behavioral Economics | Junto con Tversky, son los fundadores de la economía conductual y la Prospect Theory. En una serie de lab experiments, muestran los distintos sesgos de las personas a la hora de tomar decisiones. Las personas no siempre se comportan de manera racional como suponemos en los modelos! |
+| Thinking, Fast and Slow | Kahneman | Behavioral Economics | Junto con Tversky, son los fundadores de la economía conductual y la Prospect Theory. En una serie de lab experiments, muestran los distintos sesgos de las personas a la hora de tomar decisiones. Las personas no siempre se comportan de manera racional como suponemos en los modelos! |
 ---
 
 ## 📄 Papers
