@@ -40,7 +40,8 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | Esto También es Economía | Nicolás Ajzenman | Micro Aplicada | Explica de manera sencilla un paper por capítulo. Toca temas como la política, la desigualdad y las familias. Es una buena introducción intuitiva a la inferencia causal. |
 | Thinking, Fast and Slow | Kahneman | Behavioral Economics | Junto con Tversky, son los fundadores de la economía conductual y la Prospect Theory. En una serie de lab experiments, muestran los distintos sesgos de las personas a la hora de tomar decisiones. Las personas no siempre se comportan de manera racional como suponemos en los modelos! |
 | Good Economics for Hard Times | Banerjee y Duflo | Desarrollo | Se analizan y ofrecen soluciones basadas en evidencia empírica para problemas globales como la inmigración, el desempleo, el cambio climático, el comercio, etc. Ideal para no decir boludeces en público. |
-
+| Who Gets What and Why | Alvin Roth | Hay mercados donde el dinero no sirve y deben ser diseñarlos. Roth es el pionero en diseño de mercado y acá cuenta para qué sirve. |
+| Essays on Economics and Economists | Ronald H. Coase | Cuenta algunos viejos debates de la ciencia y la historia de econmistas como Marshall, Stigler y Keynes. |
 ---
 
 ## 📄 Papers
